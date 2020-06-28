@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/ExplosionEffect1.png</file>
+        <file>image/ExplosionEffect2.png</file>
+        <file>image/ExplosionEffect3.png</file>
+        <file>image/ExplosionEffect4.png</file>
+        <file>image/ExplosionEffect5.png</file>
+        <file>image/ExplosionEffect6.png</file>
+        <file>image/ExplosionEffect7.png</file>
+        <file>image/SelectionBox.png</file>
+        <file>image/UpgradeBut1.png</file>
+        <file>image2/startingback.png</file>
+        <file>image/creeper.png</file>
+        <file>image/WitheSkeleton.png</file>
+        <file>image/Zombie.png</file>
+        <file>image/YJG.png</file>
+        <file>image/Endman.png</file>
+        <file>image/Steve.png</file>
+        <file>image/snowman.png</file>
+        <file>image/snowball.png</file>
+        <file>image/egg.png</file>
+        <file>image/Chicken.png</file>
+        <file>image/fireshooter.png</file>
+        <file>image/fireball.png</file>
+        <file>image/witch.png</file>
+        <file>image/bottle.png</file>
+        <file>image/Buychicken.png</file>
+        <file>image/Buyshooter.png</file>
+        <file>image/Buysnowman.png</file>
+        <file>image/Buywitch.png</file>
+        <file>image/Grass.png</file>
+        <file>image/stone.png</file>
+        <file>image/stonebrick.png</file>
+        <file>image/sand.png</file>
+        <file>image/water.png</file>
+    </qresource>
+</RCC>
